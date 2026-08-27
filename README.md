@@ -180,22 +180,15 @@ else:
 ```
 ## Output
 
-Original Image:
 <img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/63813f34-47ce-4f84-b7d4-57ec5795fd55" />
 
 
-
-Segmented ROI:
 <img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/5a14ef3a-44c2-49a3-b680-d62638ef7403" />
 
 
-
-Canny Edge Detection:
 <img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/a32b8e4c-8fae-4c2b-afc7-6e2e3673d8fd" />
 
 
-
-CONTOUR DETECTION:
 
 <img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/ce173e17-fe5a-4b35-ba37-ce82273c323f" />
 
